@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OpenWeatherMap4Unreal-0016.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Intermediate\Build\Win64\OpenWeatherMapPluginEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Module.OpenWeatherMap4Unreal.cpp.obj"
+"D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Module.OpenWeatherMap4Unreal.gen.cpp.obj"
+"D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Default.rc2.res"
+/OUT:"D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\UE4Editor-OpenWeatherMap4Unreal-0016.lib"
+/INCLUDE:IMPLEMENT_MODULE_OpenWeatherMap4Unreal
