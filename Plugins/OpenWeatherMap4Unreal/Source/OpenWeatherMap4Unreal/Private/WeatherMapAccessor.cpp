@@ -64,17 +64,21 @@ void UWeatherMapAccessor::RequestWeatherMapData(FString URL)
 		if (WasSuccessful) {
 			//通信成功
 			if (Response->GetResponseCode() >= 200 && Response->GetResponseCode() < 300) {
-				UE_LOG(OpenWeatherMapForUnreal, Log, TEXT("Communication success !"));
 				this->ReceivedDataBuffer = Response->GetContentAsString();
-				UE_LOG(OpenWeatherMapForUnreal, Log, TEXT("%s"), *(this->ReceivedDataBuffer));
+				if (UseDebugLog) {
+					UE_LOG(OpenWeatherMapForUnreal, Log, TEXT("Communication success !"));
+					UE_LOG(OpenWeatherMapForUnreal, Log, TEXT("%s"), *(this->ReceivedDataBuffer));
+				}
 
 				//イベントディスパッチャを呼び出す
 				this->OnReceivedWeatherMapData.Broadcast();
 			}
 			//通信失敗（404エラーなど）
 			else {
-				UE_LOG(OpenWeatherMapForUnreal, Warning, TEXT("Communication failure ..."));
-				UE_LOG(OpenWeatherMapForUnreal, Warning, TEXT("%d"), Response->GetResponseCode());
+				if (UseDebugLog) {
+					UE_LOG(OpenWeatherMapForUnreal, Warning, TEXT("Communication failure ..."));
+					UE_LOG(OpenWeatherMapForUnreal, Warning, TEXT("%d"), Response->GetResponseCode());
+				}
 
 				//イベントディスパッチャを呼び出す
 				this->OnRecivedErrorCode.Broadcast();
@@ -82,7 +86,7 @@ void UWeatherMapAccessor::RequestWeatherMapData(FString URL)
 		}
 		//接続失敗
 		else {
-			UE_LOG(OpenWeatherMapForUnreal, Warning, TEXT("Failed to get weather information ..."));
+			if (UseDebugLog)UE_LOG(OpenWeatherMapForUnreal, Warning, TEXT("Failed to get weather information ..."));
 
 			//イベントディスパッチャを呼び出す
 			this->OnFailureCommunication.Broadcast();
@@ -94,7 +98,7 @@ void UWeatherMapAccessor::RequestWeatherMapData(FString URL)
 
 	//URLを設定
 	Request->SetURL(URL);
-	UE_LOG(OpenWeatherMapForUnreal, Log, TEXT("%s"), *URL);
+	if (UseDebugLog)UE_LOG(OpenWeatherMapForUnreal, Log, TEXT("[Created URL]%s"), *URL);
 
 	//通信を開始
 	Request->ProcessRequest();
@@ -164,6 +168,6 @@ bool UWeatherMapAccessor::GetWeatherIconURL(FString& URL)
 {
 	if (IconID == "") return false;
 	URL = IconBaseURL + IconID + ".png";
-	UE_LOG(OpenWeatherMapForUnreal, Log, TEXT("%s"), *URL);
+	if (UseDebugLog)UE_LOG(OpenWeatherMapForUnreal, Log, TEXT("[Icon URL]%s"), *URL);
 	return true;
 }

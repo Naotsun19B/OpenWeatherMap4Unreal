@@ -1,0 +1,3 @@
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Definitions.OpenWeatherMap4Unreal.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

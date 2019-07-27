@@ -1,0 +1,7 @@
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Definitions.OpenWeatherMap4Unreal.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Public\EditorSetting.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal\EditorSetting.generated.h

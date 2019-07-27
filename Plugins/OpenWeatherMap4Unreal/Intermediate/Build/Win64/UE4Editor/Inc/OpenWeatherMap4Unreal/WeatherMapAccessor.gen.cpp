@@ -535,7 +535,7 @@ static struct FScriptStruct_OpenWeatherMap4Unreal_StaticRegisterNativesFCityData
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UWeatherMapAccessor_GetWeatherIconURL_Statics::Function_MetaDataParams[] = {
 		{ "Category", "OpenWeatherMap4Unreal|Received|Icon" },
 		{ "ModuleRelativePath", "Public/WeatherMapAccessor.h" },
-		{ "ToolTip", "Get icon image corresponding to weather information" },
+		{ "ToolTip", "Get icon image corresponding to weather information. Continue to call <DownloadImage> and get icon image" },
 	};
 #endif
 	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UWeatherMapAccessor_GetWeatherIconURL_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UWeatherMapAccessor, nullptr, "GetWeatherIconURL", sizeof(WeatherMapAccessor_eventGetWeatherIconURL_Parms), Z_Construct_UFunction_UWeatherMapAccessor_GetWeatherIconURL_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_UWeatherMapAccessor_GetWeatherIconURL_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04420401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UWeatherMapAccessor_GetWeatherIconURL_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_UWeatherMapAccessor_GetWeatherIconURL_Statics::Function_MetaDataParams)) };
@@ -713,7 +713,7 @@ static struct FScriptStruct_OpenWeatherMap4Unreal_StaticRegisterNativesFCityData
 	const FClassFunctionLinkInfo Z_Construct_UClass_UWeatherMapAccessor_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_UWeatherMapAccessor_GetReceivedHttpStatesCode, "GetReceivedHttpStatesCode" }, // 2547415375
 		{ &Z_Construct_UFunction_UWeatherMapAccessor_GetReceivedWeatherMapData, "GetReceivedWeatherMapData" }, // 1072413681
-		{ &Z_Construct_UFunction_UWeatherMapAccessor_GetWeatherIconURL, "GetWeatherIconURL" }, // 2797567475
+		{ &Z_Construct_UFunction_UWeatherMapAccessor_GetWeatherIconURL, "GetWeatherIconURL" }, // 2414059040
 		{ &Z_Construct_UFunction_UWeatherMapAccessor_RequestWeatherMapDataWithCityID, "RequestWeatherMapDataWithCityID" }, // 698022703
 		{ &Z_Construct_UFunction_UWeatherMapAccessor_RequestWeatherMapDataWithCityName, "RequestWeatherMapDataWithCityName" }, // 34529165
 		{ &Z_Construct_UFunction_UWeatherMapAccessor_RequestWeatherMapDataWithCoordinates, "RequestWeatherMapDataWithCoordinates" }, // 618780459
@@ -791,7 +791,7 @@ static struct FScriptStruct_OpenWeatherMap4Unreal_StaticRegisterNativesFCityData
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UWeatherMapAccessor, 2833616564);
+	IMPLEMENT_CLASS(UWeatherMapAccessor, 1132648433);
 	template<> OPENWEATHERMAP4UNREAL_API UClass* StaticClass<UWeatherMapAccessor>()
 	{
 		return UWeatherMapAccessor::StaticClass();

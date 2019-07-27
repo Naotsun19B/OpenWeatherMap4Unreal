@@ -1,6 +1,13 @@
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Definitions.OpenWeatherMap4Unreal.h
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Private\OpenWeatherMap4Unreal.cpp
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Public\OpenWeatherMap4Unreal.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Definitions.OpenWeatherMap4Unreal.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Private\EditorSetting.cpp
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Public\EditorSetting.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal\EditorSetting.generated.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Private\OpenWeatherMap4Unreal.cpp
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Public\OpenWeatherMap4Unreal.h
 D:\Epic Games\UE_4.22\Engine\Source\Runtime\Online\HTTP\Public\Http.h
 d:\epic games\ue_4.22\engine\source\runtime\online\http\public\HttpModule.h
 d:\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h
@@ -76,15 +83,12 @@ d:\epic games\ue_4.22\engine\source\runtime\core\public\UObject/SequencerObjectV
 d:\epic games\ue_4.22\engine\source\runtime\core\public\UObject/VRObjectVersion.h
 d:\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
 d:\epic games\ue_4.22\engine\source\runtime\core\public\Misc/MonitoredProcess.h
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Private\OpenWeatherMap4UnrealBPLibrary.cpp
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Public\OpenWeatherMap4UnrealBPLibrary.h
-d:\epic games\unrealproject\openweathermapplugin\plugins\openweathermap4unreal\source\openweathermap4unreal\public\WeatherMapAccessor.h
-D:\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
-D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
-D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
-D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal\WeatherMapAccessor.generated.h
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal\OpenWeatherMap4UnrealBPLibrary.generated.h
+D:\Epic Games\UE_4.22\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Private\OpenWeatherMap4UnrealBPLibrary.cpp
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Public\OpenWeatherMap4UnrealBPLibrary.h
+d:\epic games\unreal projects\openweathermapplugin\plugins\openweathermap4unreal\source\openweathermap4unreal\public\WeatherMapAccessor.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal\WeatherMapAccessor.generated.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal\OpenWeatherMap4UnrealBPLibrary.generated.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
@@ -114,7 +118,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.1
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
@@ -122,6 +126,6 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.1
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\share.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Private\WeatherMapAccessor.cpp
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Private\WeatherMapAccessor.cpp

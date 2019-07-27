@@ -1,6 +1,7 @@
 // Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 
 #include "OpenWeatherMap4UnrealBPLibrary.h"
+#include "EditorSetting.h"
 #include <string>
 
 UOpenWeatherMap4UnrealBPLibrary::UOpenWeatherMap4UnrealBPLibrary(const FObjectInitializer& ObjectInitializer)
@@ -15,6 +16,9 @@ void UOpenWeatherMap4UnrealBPLibrary::CreateWeatherMapAccessor(FString APIKey, U
 	WeatherMapAccessor = NewObject<UWeatherMapAccessor>();
 	//APIキーを設定
 	WeatherMapAccessor->mAPIKey = APIKey;
+	//ログ出力の設定
+	const UEditorSetting* EditorSetting = GetDefault<UEditorSetting>();
+	WeatherMapAccessor->UseDebugLog = EditorSetting->UseDebugLog;
 }
 
 FString UOpenWeatherMap4UnrealBPLibrary::ConvertCityDataToString(FCityData Data)

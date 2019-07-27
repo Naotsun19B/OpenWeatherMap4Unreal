@@ -25,8 +25,8 @@ void EmptyLinkFunctionForGeneratedCodeOpenWeatherMap4Unreal_init() {}
 				SingletonFuncArray,
 				ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xC9E7C0F3,
-				0xF615213F,
+				0x1242CF55,
+				0x639B3CEB,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

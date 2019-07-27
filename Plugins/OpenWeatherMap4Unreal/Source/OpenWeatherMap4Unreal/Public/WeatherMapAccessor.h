@@ -83,6 +83,9 @@ protected:
 	FString IconID;
 
 public:
+	bool UseDebugLog;
+
+public:
 	// API key required to use OpenWeatherMap API
 	UPROPERTY(BlueprintReadOnly, Category = "OpenWeatherMap4Unreal|APIKey", meta = (DisplayName = "APIKey"))
 		FString mAPIKey;

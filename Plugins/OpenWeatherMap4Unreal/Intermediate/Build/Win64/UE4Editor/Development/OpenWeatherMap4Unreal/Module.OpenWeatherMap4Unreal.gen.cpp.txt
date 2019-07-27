@@ -1,15 +1,14 @@
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Definitions.OpenWeatherMap4Unreal.h
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal\OpenWeatherMap4Unreal.init.gen.cpp
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Definitions.OpenWeatherMap4Unreal.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal\OpenWeatherMap4UnrealBPLibrary.gen.cpp
 D:\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal\OpenWeatherMap4UnrealBPLibrary.gen.cpp
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal/Public/OpenWeatherMap4UnrealBPLibrary.h
-d:\epic games\unrealproject\openweathermapplugin\plugins\openweathermap4unreal\source\openweathermap4unreal\public\WeatherMapAccessor.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal/Public/OpenWeatherMap4UnrealBPLibrary.h
+d:\epic games\unreal projects\openweathermapplugin\plugins\openweathermap4unreal\source\openweathermap4unreal\public\WeatherMapAccessor.h
 D:\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
 D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
 D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
 D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
-d:\epic games\unrealproject\openweathermapplugin\plugins\openweathermap4unreal\source\openweathermap4unreal\public\OpenWeatherMap4Unreal.h
+d:\epic games\unreal projects\openweathermapplugin\plugins\openweathermap4unreal\source\openweathermap4unreal\public\OpenWeatherMap4Unreal.h
 D:\Epic Games\UE_4.22\Engine\Source\Runtime\Online\HTTP\Public\Http.h
 d:\epic games\ue_4.22\engine\source\runtime\online\http\public\HttpModule.h
 d:\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h
@@ -85,6 +84,5 @@ d:\epic games\ue_4.22\engine\source\runtime\core\public\UObject/SequencerObjectV
 d:\epic games\ue_4.22\engine\source\runtime\core\public\UObject/VRObjectVersion.h
 d:\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
 d:\epic games\ue_4.22\engine\source\runtime\core\public\Misc/MonitoredProcess.h
-d:\epic games\unrealproject\openweathermapplugin\plugins\openweathermap4unreal\intermediate\build\win64\ue4editor\inc\openweathermap4unreal\WeatherMapAccessor.generated.h
-d:\epic games\unrealproject\openweathermapplugin\plugins\openweathermap4unreal\intermediate\build\win64\ue4editor\inc\openweathermap4unreal\OpenWeatherMap4UnrealBPLibrary.generated.h
-D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal\WeatherMapAccessor.gen.cpp
+d:\epic games\unreal projects\openweathermapplugin\plugins\openweathermap4unreal\intermediate\build\win64\ue4editor\inc\openweathermap4unreal\WeatherMapAccessor.generated.h
+d:\epic games\unreal projects\openweathermapplugin\plugins\openweathermap4unreal\intermediate\build\win64\ue4editor\inc\openweathermap4unreal\OpenWeatherMap4UnrealBPLibrary.generated.h

@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I "D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Private"
+/I "D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -427,22 +427,22 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal"
-/I "D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source"
-/I "D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Public"
-/I "D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal"
+/I "D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal"
+/I "D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source"
+/I "D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Public"
+/I "D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal"
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Intermediate\Build\Win64\OpenWeatherMapPluginEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Intermediate\Build\Win64\OpenWeatherMapPluginEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Intermediate\Build\Win64\OpenWeatherMapPluginEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Module.OpenWeatherMap4Unreal.cpp"
-/FI"D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Definitions.OpenWeatherMap4Unreal.h"
-/Fo"D:\Epic Games\UnrealProject\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Module.OpenWeatherMap4Unreal.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
+/FI"D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Intermediate\Build\Win64\OpenWeatherMapPluginEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Intermediate\Build\Win64\OpenWeatherMapPluginEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Intermediate\Build\Win64\OpenWeatherMapPluginEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Module.OpenWeatherMap4Unreal.cpp"
+/FI"D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Definitions.OpenWeatherMap4Unreal.h"
+/Fo"D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Module.OpenWeatherMap4Unreal.cpp.obj"
 /TP
 /GR-
 /W4
