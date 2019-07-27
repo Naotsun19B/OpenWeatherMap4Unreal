@@ -1,0 +1,16 @@
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Development\OpenWeatherMap4Unreal\Definitions.OpenWeatherMap4Unreal.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Source\OpenWeatherMap4Unreal\Public\WeatherMapAccessor.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+d:\epic games\unreal projects\openweathermapplugin\plugins\openweathermap4unreal\source\openweathermap4unreal\public\OpenWeatherMap4Unreal.h
+D:\Epic Games\UE_4.22\Engine\Source\Runtime\Online\HTTP\Public\Http.h
+d:\epic games\ue_4.22\engine\source\runtime\online\http\public\HttpModule.h
+d:\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h
+d:\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpBase.h
+d:\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpResponse.h
+d:\epic games\ue_4.22\engine\source\runtime\online\http\public\PlatformHttp.h
+d:\epic games\ue_4.22\engine\source\runtime\online\http\public\Windows/WindowsPlatformHttp.h
+d:\epic games\ue_4.22\engine\source\runtime\online\http\public\GenericPlatform/GenericPlatformHttp.h
+D:\Epic Games\Unreal Projects\OpenWeatherMapPlugin\Plugins\OpenWeatherMap4Unreal\Intermediate\Build\Win64\UE4Editor\Inc\OpenWeatherMap4Unreal\WeatherMapAccessor.generated.h

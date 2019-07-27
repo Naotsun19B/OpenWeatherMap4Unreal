@@ -1,7 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "WeatherMapAccessor.h"
-#include <string>
 
 DEFINE_LOG_CATEGORY_STATIC(OpenWeatherMapForUnreal, Log, All);
 
@@ -33,7 +32,7 @@ void UWeatherMapAccessor::RequestWeatherMapDataWithCoordinates(float Latitude, f
 	//単位を指定
 	FString config = SelectUnits(Units);
 	//URLを作成
-	FString URL = BaseURL + config + "lat=" + std::to_string(Latitude).c_str() + "&lon=" + std::to_string(Longitude).c_str() + "&appid=" + mAPIKey;
+	FString URL = BaseURL + config + "lat=" + FString::SanitizeFloat(Latitude, 2) + "&lon=" + FString::SanitizeFloat(Longitude, 2) + "&appid=" + mAPIKey;
 	//APIへアクセス
 	RequestWeatherMapData(URL);
 }
@@ -43,7 +42,7 @@ void UWeatherMapAccessor::RequestWeatherMapDataWithCityID(int CityID, ETemperatu
 	//単位を指定
 	FString config = SelectUnits(Units);
 	//URLを作成
-	FString URL = BaseURL + config + "id=" + std::to_string(CityID).c_str() + "&appid=" + mAPIKey;
+	FString URL = BaseURL + config + "id=" + FString::FromInt(CityID) + "&appid=" + mAPIKey;
 	//APIへアクセス
 	RequestWeatherMapData(URL);
 }

@@ -8,9 +8,9 @@
 			"WeatherMapAccessor.cpp.obj"
 		],
 		"Module.OpenWeatherMap4Unreal.gen.cpp.obj": [
-			"OpenWeatherMap4UnrealBPLibrary.gen.cpp.obj",
 			"EditorSetting.gen.cpp.obj",
 			"OpenWeatherMap4Unreal.init.gen.cpp.obj",
+			"OpenWeatherMap4UnrealBPLibrary.gen.cpp.obj",
 			"WeatherMapAccessor.gen.cpp.obj"
 		]
 	}
